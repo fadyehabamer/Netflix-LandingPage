@@ -2,6 +2,6 @@
 #### using
 - HTML
 - CSS
- - Responsive 
+    - Responsive 
 - JS
  
